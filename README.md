@@ -1,7 +1,7 @@
 # Refresh Repositories
 
 ## Introduction
-This library helps you truncate your RDBM tables, and also delete your elasticsearch indices.
+This library helps you truncate your RDBM tables, and also delete your elasticsearch indices (for testing purposes).
 
 ## Installation
 Using this library is easy. First, use go get to install the latest version of the library.
